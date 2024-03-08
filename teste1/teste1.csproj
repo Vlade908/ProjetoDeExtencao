@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <None Remove="img\Logo.png" />
+    <None Remove="img\undraw_Loading_re_5axr.png" />
+    <None Remove="img\undraw_loading_re_5axr.svg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +21,8 @@
 
   <ItemGroup>
     <Resource Include="img\Logo.png" />
+    <Resource Include="img\undraw_Loading_re_5axr.png" />
+    <Resource Include="img\undraw_loading_re_5axr.svg" />
   </ItemGroup>
 
 </Project>
